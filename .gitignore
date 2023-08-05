@@ -1,0 +1,11 @@
+# Python
+.idea
+.ipynb_checkpoints/
+__pycache__
+
+# Outputs
+outputs/
+figures/
+
+# OSX
+.DS_Store

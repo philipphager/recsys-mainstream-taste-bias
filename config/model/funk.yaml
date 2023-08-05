@@ -1,0 +1,7 @@
+_target_: src.model.funk.FunkSVD
+
+params:
+  dimensions: [ 10, 50, 100 ]
+  epochs: [ 50 ]
+  learning_rate: [ 0.01, 0.005, 0.001 ]
+  regularization_rate: [ 0.01, 0.005, 0.001 ]
