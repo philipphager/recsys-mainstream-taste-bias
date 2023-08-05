@@ -36,4 +36,4 @@ python r2_analysis.py
 ```
 
 ## License
-This project uses the [MIT license]().
+This project uses the [MIT license](https://github.com/philipphager/recsys-mainstream-taste-bias/blob/main/LICENSE).
