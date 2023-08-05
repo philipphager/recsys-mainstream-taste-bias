@@ -1,5 +1,5 @@
 # Collaborative filtering algorithms are prone to mainstream-taste bias 
-Source code for the RecSys 2023 paper `Collaborative filtering algorithms are prone to mainstream-taste bias` by Pantelis P. Analytis and Philipp Hager.
+Source code for the RecSys 2023 paper [Collaborative filtering algorithms are prone to mainstream-taste bias](https://philipphager.github.io/assets/papers/2023-recsys-mainstream-taste.pdf) by Pantelis P. Analytis and Philipp Hager.
 
 ## Installation
 1. Install dependencies using conda: `conda env create -f environment.yaml`
