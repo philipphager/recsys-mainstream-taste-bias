@@ -3,7 +3,7 @@ Source code for the RecSys 2023 paper [Collaborative filtering algorithms are pr
 
 ## Installation
 1. Install dependencies using conda: `conda env create -f environment.yaml`
-2. Activate environment: `conda activate meainstream-taste-bias`
+2. Activate environment: `conda activate mainstream-taste-bias`
 3. Run experiments as described below.
 
 ## Run experiments

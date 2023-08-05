@@ -1,4 +1,4 @@
-name: mainstream-taste-bias-2
+name: mainstream-taste-bias
 channels:
   - conda-forge
   - defaults
